@@ -1,0 +1,6 @@
+import os
+
+PROJECT_DIR = os.path.dirname(__file__) + "/"
+DATA_DIR = PROJECT_DIR + 'CIFAR10/'
+INPUT_DIR = PROJECT_DIR
+OUTPUT_DIR = PROJECT_DIR
